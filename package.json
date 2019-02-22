@@ -20,7 +20,8 @@
     "react-native": ">=0.50",
     "react-native-open-settings": "^1.0.1",
     "react-native-permissions": "^1.1.1",
-    "rn-sim-info": "^1.0.2"
+    "rn-sim-info": "^1.0.2",
+    "react-navigation": "^3.0.5"
   },
   "devDependencies": {
     "@oursky/react-native-javascript-environment-typescript": "0.1.0",
@@ -29,6 +30,8 @@
     "prettier": "1.15.3",
     "react": "16.6.1",
     "react-native": "0.57.7",
+    "react-navigation": "3.0.5",
+    "@types/react-navigation": "3.0.3",
     "rollup": "1.0.1",
     "rollup-plugin-commonjs": "9.2.0",
     "rollup-plugin-copy-assets": "^1.1.0",
